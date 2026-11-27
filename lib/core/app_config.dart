@@ -14,7 +14,7 @@ class AppConfig {
   static const String bundleId = 'aura.bunny';
   static const String iosAppStoreId = '6839834538';
   static const String version = '1.5';
-  static const String buildNumber = '8';
+  static const String buildNumber = '9';
 
   static const String developerName = 'AuraBunny Studio';
   static const String supportEmail = 'yaniamania6@icloud.com';
